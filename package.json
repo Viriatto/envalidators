@@ -5,6 +5,7 @@
   "main": "./dist/index.js",
   "types": "./typings/index.d.ts",
   "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
     "prebuild": "rimraf dist typings",
     "build": "tsc",
     "watch": "tsc --watch",
