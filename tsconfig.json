@@ -1,7 +1,8 @@
 {
-	"compilerOptions": {
-		"declaration": true,
-		"outDir": "./dist",
-		"declarationDir": "./typings"
-	}
+  "compilerOptions": {
+    "declaration": true,
+    "outDir": "./dist",
+    "declarationDir": "./typings",
+    "sourceMap": true
+  }
 }
