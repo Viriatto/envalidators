@@ -1,8 +1,9 @@
-src
 .eslintrc.json
 .prettierrc
 .vscode
 .github
+.husky
 tsconfig.eslint.json
 tsconfig.json
 *.js.map
+src
