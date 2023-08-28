@@ -6,3 +6,5 @@
 tsconfig.eslint.json
 tsconfig.json
 src
+.lintstagedrc.json
+.prettierignore
