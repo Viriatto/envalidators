@@ -5,5 +5,4 @@
 .husky
 tsconfig.eslint.json
 tsconfig.json
-*.js.map
 src
